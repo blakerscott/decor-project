@@ -3,6 +3,24 @@
   float: left;
 }
 
+.column1 {
+  width: 300px;
+  float: left;
+  background-color: green;
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  background-color: orange;
+}
+
+.column3 {
+  width: 300px;
+  float: left;
+  background-color: blue;
+}
+
 h1, h2 {
   text-align: center;
 }
