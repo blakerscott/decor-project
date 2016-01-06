@@ -1,0 +1,12 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+body{
+  background-color: lightblue;
+}
